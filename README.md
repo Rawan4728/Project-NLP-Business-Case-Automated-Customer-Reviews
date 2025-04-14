@@ -35,13 +35,5 @@ bert-base-uncased: A version of BERT that has been pretrained on a large corpus 
 
 roberta-base: A robustly optimized version of BERT that has shown superior performance in NLP tasks.
 
-Key Features
-Review Classification: Classifying customer reviews into positive, negative, and neutral categories.
 
-Product Clustering: Grouping products into 4-6 meta-categories based on review content.
-
-Review Summarization: Using generative AI to summarize reviews into comprehensive recommendation articles, highlighting top-rated products, key complaints, and providing product comparisons.
-
-References
-Streamlit and saved model
 
