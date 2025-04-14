@@ -1,6 +1,6 @@
 # Project-NLP-Business-Case-Automated-Customer-Reviews
 
-##Project Overview
+#Project Overview
 This project aims to develop a product review system powered by Natural Language Processing (NLP) models that aggregate customer feedback from different sources. The key tasks include:
 
 Classifying reviews into positive, negative, or neutral sentiment.
